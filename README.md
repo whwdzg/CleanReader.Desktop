@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 干净阅读
+# 干净阅读（复刻自云之幻）
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Clean-Reader/CleanReader.Desktop)](https://github.com/Clean-Reader/CleanReader.Desktop/releases) ![GitHub Release Date](https://img.shields.io/github/release-date/Clean-Reader/CleanReader.Desktop) ![GitHub All Releases](https://img.shields.io/github/downloads/Clean-Reader/CleanReader.Desktop/total) ![GitHub stars](https://img.shields.io/github/stars/Clean-Reader/CleanReader.Desktop?style=flat) ![GitHub forks](https://img.shields.io/github/forks/Clean-Reader/CleanReader.Desktop)
 
